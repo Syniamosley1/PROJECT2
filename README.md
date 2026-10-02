@@ -4,6 +4,10 @@ PERSONAL PROJECT
 # Date: 2026-09-25
 # Description: A short branching text adventure with health, endings, and invalid-choice handling
 
+# Commit 1: Initialize branching text adventure
+# Commit 2: Add health system and invalid-choice handling
+# Commit 3: Implement win/lose endings and decision paths
+
 health = 10
 print("Health:", health)
 
